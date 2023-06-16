@@ -18,6 +18,7 @@ div{
   height: 100%;
   display: grid;
   place-items: center;
+  text-align: center;
   background-color: #FAF0E4;
   color: #191c12;
 }
