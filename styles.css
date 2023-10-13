@@ -20,8 +20,8 @@ div{
   display: grid;
   place-items: center;
   text-align: center;
-  background-color: #000;
-  color: #191c12;
+  background-color: #191c12;
+  color: #fff;
 }
 div p{
   -webkit-touch-callout: none;
