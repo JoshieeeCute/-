@@ -22,6 +22,7 @@ div{
   text-align: center;
   background-color: #191c12;
   color: #fff;
+  font-size: .5em;
 }
 div p{
   -webkit-touch-callout: none;
